@@ -177,7 +177,7 @@ Defines database structure.
 
 ## 👨‍💻 Author
 
-Your Name
+Munendra
 
 ---
 
