@@ -57,7 +57,7 @@ fastapi-starter/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/<your-username>/fastapi-starter.git
+git clone https://github.com/Munendracodes/fastapi-starter.git
 cd fastapi-starter
 ```
 
